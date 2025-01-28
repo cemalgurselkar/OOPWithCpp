@@ -4,12 +4,10 @@ using namespace std;
 
 //Base class
 class Parent{
-	
 	//Protected data members
 	protected:
 		int id_protected;
 };
-
 // sub class or derived class from public base class
 class Child : public Parent{
 	public:

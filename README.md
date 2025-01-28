@@ -8,6 +8,9 @@ It can use to study for Object Orianted Programming lesson' exams.
 - 2-Polymorphism
 - 3-Inheritance
 - 4-Virtual base Function
+- 5-Using Coord
+- 6-Using Protect&Private
+
 
 + Note: There are also some questions from past exams in the repository.
 
